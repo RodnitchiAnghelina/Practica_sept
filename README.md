@@ -62,11 +62,9 @@ Pentru a implementa acest meniu, am folosit elementele HTML și CSS pentru a cre
 ## Capturi de ecran
 
 
+![Screenshot 1](https://github.com/RodnitchiAnghelina/Practica_sept/assets/124936080/69607dd4-c2c2-45bb-b365-049f86fa84b8.png)
+"D:\Proiectul de practica\Practica_univer\imag\Screenshot 1.png"
 
-![Captură de ecran 1](![image](https://github.com/RodnitchiAnghelina/Practica_sept/assets/124936080/b8da4eba-b60a-4145-a8f2-1b8e3e540860)
-)
-![Captură de ecran 2](![image](https://github.com/RodnitchiAnghelina/Practica_sept/assets/124936080/b0ca5237-1226-4649-aa1e-ad6e056d1c52)
-)
 
 
 
