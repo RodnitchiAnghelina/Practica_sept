@@ -63,7 +63,8 @@ Pentru a implementa acest meniu, am folosit elementele HTML și CSS pentru a cre
 
 
 ![Screenshot 1](https://github.com/RodnitchiAnghelina/Practica_sept/assets/124936080/69607dd4-c2c2-45bb-b365-049f86fa84b8.png)
-"D:\Proiectul de practica\Practica_univer\imag\Screenshot 1.png"
+![Screenshot 2](https://github.com/RodnitchiAnghelina/Practica_sept/assets/124936080/9e525999-2ec4-4703-8772-18b4d0560fb6.png)
+
 
 
 
