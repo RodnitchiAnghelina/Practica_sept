@@ -11,9 +11,9 @@ Acest proiect este un site web dedicat iubitorilor de film, dezvoltat pentru a o
 
 2. **Navigare în programul de filme:** Pe pagina principală, puteți vedea lista filmelor care rulează în acest moment și cele care urmează să fie lansate în curând.
 
-3. **Detalii despre filme:** Pe paginile filmelor, veți găsi informații precum descrierea filmului, programul de proiecții și prețurile biletelor.
+3. **Detalii despre filme:** Pe paginile filmelor, veți găsi informații precum  (durată, calitate, rating de vârstă) și o scurtă descriere.
 
-4. **Rezervare bilete:** Dacă doriți să rezervați bilete, utilizați funcția de rezervare disponibilă pe pagina fiecărui film. Selectați numărul de bilete dorit și furnizați informațiile necesare pentru a finaliza rezervarea.
+4. **Rezervare bilete:** Dacă doriți să rezervați bilete, utilizați funcția de rezervare din meniu. Selectați numărul de bilete dorit și furnizați informațiile necesare pentru a finaliza rezervarea.
 
    ## Pagini principale
 
@@ -57,9 +57,7 @@ Proiectul nostru include un meniu de tip hamburger pentru navigarea pe site. Ace
 
 Pentru a implementa acest meniu, am folosit elementele HTML și CSS pentru a crea aspectul și stilul meniului de tip hamburger. De asemenea, am adăugat funcționalitate JavaScript pentru a face meniul interactiv. Când utilizatorul face clic pe iconița de hamburger, meniul se deschide și afișează legături către paginile principale ale site-ului.
 
-Pentru a vedea implementarea acestui meniu în cod, puteți verifica fișierul HTML (`index.html`) și fișierul CSS (`app.css`) pentru detalii suplimentare.
 
-Pentru a modifica aspectul sau comportamentul meniului de tip hamburger, puteți edita fișierele CSS și JavaScript pentru a vă potrivi nevoilor proiectului dumneavoastră.
 
 ## Capturi de ecran
 
