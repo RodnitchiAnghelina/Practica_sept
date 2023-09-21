@@ -63,9 +63,9 @@ Pentru a implementa acest meniu, am folosit elementele HTML și CSS pentru a cre
 
 
 
-![image](https://github.com/RodnitchiAnghelina/Practica_sept/assets/124936080/4f33d532-0fc6-41e0-a1e2-5925166937b6)
+(https://github.com/RodnitchiAnghelina/Practica_sept/assets/124936080/4f33d532-0fc6-41e0-a1e2-5925166937b6)
 
-![image](https://github.com/RodnitchiAnghelina/Practica_sept/assets/124936080/c4545320-5219-46ce-ae00-a9fff3cba517)
+(https://github.com/RodnitchiAnghelina/Practica_sept/assets/124936080/c4545320-5219-46ce-ae00-a9fff3cba517)
 
 
 
